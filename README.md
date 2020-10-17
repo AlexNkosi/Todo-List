@@ -1,5 +1,10 @@
 # Todo-List
 
+## Built with 
+* HTML 
+* CSS
+* JS
+
 ## functions
 
 * capture task 
